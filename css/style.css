@@ -10,6 +10,7 @@ body{
   padding: 40px;
 }
 
+
 /*sidebar*/
 
 .my-photo{
@@ -19,8 +20,8 @@ body{
 .wrapper{
   display: flex;
   background: white;
-  max-width: 1200px;
   margin: 0 auto;
+  min-width: 1024px;
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
   
 }
@@ -71,19 +72,19 @@ body{
 
 /*tech-skills*/
 
-.tech-skills-container{
+.sidebar-container{
   margin-top: 55px;
   margin-left: 40px;
 }
 
-.tech-skills-title{
+.sidebar-title{
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
   color: #ffffff;
 }
 
-.tech-skills-list{
+.sidebar-list{
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -93,11 +94,11 @@ body{
   margin-left: 15px;
 }
 
-.tech-skills-item{
+.sidebar-item{
   margin-top: 13px;
 }
 
-.tech-skills-text{
+.sidebar-text{
   color: #d8dadd;
 }
 

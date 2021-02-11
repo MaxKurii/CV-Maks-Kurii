@@ -9,7 +9,10 @@
   .my-photo{
     width: 370px;
     }
-    .sidebar{
-      width: 370px;
-    }
+  .sidebar{
+    width: 370px;
+  }
+  body{
+    padding: 40px;
+  }
 }

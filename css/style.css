@@ -7,7 +7,6 @@
 body{
   font-family: 'Montserrat', sans-serif;
   background: #f5f7fa;
-  padding: 40px;
 }
 
 
@@ -205,11 +204,13 @@ margin-bottom: 20px;
 .dots{
   color: #bebebe;
   font-weight:100;
+  display: block;
 }
 
 .project-item{
   font-weight: 700;
   margin-left: 17px;
+  overflow-wrap: anywhere;
 }
 
 

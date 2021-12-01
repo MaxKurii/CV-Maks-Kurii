@@ -60,7 +60,7 @@ body{
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #434c5a;
+  color: #d8dadd;
 }
 
 .contacts-link-type{
@@ -204,7 +204,7 @@ margin-bottom: 20px;
 .dots{
   color: #bebebe;
   font-weight:100;
-  display: block;
+  /* display: block; */
 }
 
 .project-item{
